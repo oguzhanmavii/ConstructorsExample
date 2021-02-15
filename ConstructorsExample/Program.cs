@@ -12,7 +12,7 @@ namespace ConstructorsExample
 
 
 
-            Customer customer2 = new Customer(2, "Derin", "Demiroğ","Ankara");
+            Customer customer2 = new Customer(2, "Aslı", "Özdemir","Ankara");
         }
 
 
